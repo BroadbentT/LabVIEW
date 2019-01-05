@@ -3,7 +3,7 @@ Various virtual programs.
 
 | FILENAME       | DESCRIPTION |
 |----------------|-------------|
-| [FireAlarm2](https://github.com/BroadbentT/Project-FireAlarm2) | A sophisticated smoke and heat detection system. |
+| [Fire Alarm](https://github.com/BroadbentT/Project-FireAlarm2) | A sophisticated smoke and heat detection system. |
 
 - [X] Tested and working .
 
