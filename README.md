@@ -1,5 +1,4 @@
 # LabVIEW
-Various virtual programs.
 
 | FILE | DESCRIPTION |
 |----------------|-------------|
